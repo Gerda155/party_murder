@@ -7,7 +7,7 @@
 2. Скачай проект или клонируй репозиторий:
 
    ```bash
-   git clone https://github.com/твоя_ссылка/snus-murder.git
+   git clone https://github.com/Gerda155/party_murder.git
    cd snus-murder
    ```
 3. Запусти:
